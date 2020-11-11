@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var BillAmountTextField: UITextField!
     @IBOutlet weak var tipControl: UISegmentedControl!
-    
+
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var tipPercentageLabel: UILabel!
     
